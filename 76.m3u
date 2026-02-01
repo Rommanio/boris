@@ -7,7 +7,7 @@ http://158.101.222.193:88/georgia_play.php?id=black
 http://158.101.222.193:88/georgia_play.php?id=illuzionplus
 #EXTINF:-1 group-title="Кино",Индия
 http://158.101.222.193:88/georgia_play.php?id=zeetv
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/821.png" group-title="Кино",Кинокомедия HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/821.png" group-title="Кино",Кинокомедия
 http://158.101.222.193:88/georgia_play.php?id=kinokomediya
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/644.png" group-title="Кино",Киномикс
 http://158.101.222.193:88/georgia_play.php?id=kinomiks
