@@ -56,10 +56,6 @@ http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
 http://hls127.freeott.top:8080/MyTV/mono.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/17102025/banners/49702-68f21e2ea83d1.png" group-title="Кино",TvBoom-ViP
 https://kb.catcast.tv/content/49702/index.m3u8
-#EXTINF:-1 group-title="Кино",SD REX
-http://195.26.83.96:7029/play/a008
-#EXTINF:-1 group-title="Кино",SD REX
-http://tv.ttk.mx:9095
 #EXTINF:-1 group-title="Кино",TV1 (KG)
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 group-title="Кино" ,Феникс+Кино
@@ -82,10 +78,6 @@ http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
 http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
 #EXTINF:-1 group-title="Кино",CPS Fresh HD
 http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
-#EXTINF:-1 group-title="Кино",Русский Роман HD
-http://tv.ttk.mx:9085
-#EXTINF:-1 group-title="Кино",Русский Бестселлер
-http://tv.ttk.mx:9043
 #EXTINF:-1 group-title="Кино" ,Семейное кино HD
 https://ucdn.beetv.kz/bpk-tv/000008489/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" ,Сапфир HD
