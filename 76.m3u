@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Кино" ,Мировое Кино HD
+https://ucdn.beetv.kz/bpk-tv/000008488/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" ,Vip Comedy HD
 https://ucdn.beetv.kz/bpk-tv/000000870/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Yosso TV New Кино
