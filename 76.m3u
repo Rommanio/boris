@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz"
+#EXTM3U
 #EXTINF:-1 group-title="Кино" ,Vip Comedy HD
 https://ucdn.beetv.kz/bpk-tv/000000870/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Yosso TV New Кино
