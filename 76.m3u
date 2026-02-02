@@ -215,6 +215,3 @@ http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
 https://livetv-app.mylifeisgood.net.ru/channels/radiozvezda.m3u8
 #EXTINF:-1 group-title="Радио",Радио Romantica
 https://livetv-app.mylifeisgood.net.ru/channels/radioromantica.m3u8
-#EXTINF:-1 group-title="Познавательные UHD TEST4K",Наша Сибирь 4K
-https://livetv-app.mylifeisgood.net.ru/channels/nashasibir4k.m3u8
-
